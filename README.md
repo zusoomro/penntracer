@@ -1,4 +1,5 @@
 # penntracer
+
 A contact tracer for students living off campus at the University of Pennsylvania
 
 # Setup
@@ -9,7 +10,7 @@ Prerequisites: [npm](https://nodejs.org/en/), [yarn](https://classic.yarnpkg.com
 
 ```
 cd web
-yarn 
+yarn
 ```
 
 ## Server
@@ -20,8 +21,10 @@ Prerequisites: python 3.8
 cd server
 python3 -m venv env
 source env/bin/activate
+source .env
 pip install -r requirements.txt
 ```
+
 # Running
 
 ## Web App
