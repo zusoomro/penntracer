@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/penntracer/static/css/main.9900741b.chunk.css",
+    "main.js": "/penntracer/static/js/main.9bb33f79.chunk.js",
+    "main.js.map": "/penntracer/static/js/main.9bb33f79.chunk.js.map",
+    "runtime-main.js": "/penntracer/static/js/runtime-main.63709f48.js",
+    "runtime-main.js.map": "/penntracer/static/js/runtime-main.63709f48.js.map",
+    "static/js/2.96e5e7e0.chunk.js": "/penntracer/static/js/2.96e5e7e0.chunk.js",
+    "static/js/2.96e5e7e0.chunk.js.map": "/penntracer/static/js/2.96e5e7e0.chunk.js.map",
+    "index.html": "/penntracer/index.html",
+    "precache-manifest.ff328b0b8ef4701ea78da9f5dfc926ef.js": "/penntracer/precache-manifest.ff328b0b8ef4701ea78da9f5dfc926ef.js",
+    "service-worker.js": "/penntracer/service-worker.js",
+    "static/css/main.9900741b.chunk.css.map": "/penntracer/static/css/main.9900741b.chunk.css.map",
+    "static/js/2.96e5e7e0.chunk.js.LICENSE.txt": "/penntracer/static/js/2.96e5e7e0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/penntracer/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63709f48.js",
+    "static/js/2.96e5e7e0.chunk.js",
+    "static/css/main.9900741b.chunk.css",
+    "static/js/main.9bb33f79.chunk.js"
+  ]
+}
